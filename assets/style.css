@@ -37,6 +37,7 @@ body {
     display: block;
     width: 120px;
     border: 8px solid #2c2f3f;
+    margin-top: 13rem;
   }
   #header .profile h1 {
     font-size: 24px;
@@ -88,4 +89,58 @@ body {
 
 /* navigation */
 
+
+
+/* all sections */
+
+section {
+    padding: 60px 0;
+    overflow: hidden;
+  }
   
+  .section-bg {
+    background: #f5f8fd;
+  }
+  
+  .section-title {
+    padding-bottom: 30px;
+  }
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    color: #173b6c;
+  }
+
+  .section-title p {
+    margin-bottom: 0;
+  }
+  
+
+/* about section */
+
+.about .content h3 {
+  font-weight: 700;
+  font-size: 26px;
+  color: #173b6c;
+}
+.about .content ul {
+  list-style: none;
+  padding: 0;
+}
+.about .content ul li {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+.about .content ul strong {
+  margin-right: 10px;
+}
+.about .content ul i {
+  font-size: 16px;
+  margin-right: 5px;
+  color: #149ddd;
+  line-height: 0;
+}
