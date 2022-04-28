@@ -12,7 +12,7 @@ The page has a side nav bar with links that scroll to desired sections. When col
 
 [Click here for my deployed portfolio page](https://a-donati.github.io/a-donati-portfolio/)
 
-![Angela Donati portfolio website includes navigation sidebar and sections for About, Resume, SKills, and links for social media.](./assets/images/portfolio-screenshot.png)
+![Angela Donati portfolio website includes navigation sidebar and sections for About, Resume, Projects, Skills, and links for social media.](./assets/images/portfolio-screenshot.png)
 
 ## Questions
 
