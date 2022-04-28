@@ -238,7 +238,7 @@ section {
 .resume .resume-item ul li {
   padding-bottom: 10px;
 }
-.btn {
+.btn .btn-primary {
   background-color: #149ddd !important;
   
 }
