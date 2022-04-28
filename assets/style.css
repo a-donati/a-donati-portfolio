@@ -238,3 +238,7 @@ section {
 .resume .resume-item ul li {
   padding-bottom: 10px;
 }
+.btn {
+  background-color: #149ddd !important;
+  
+}
