@@ -8,7 +8,11 @@ Updated and most current personal portfolio page that has been redesigned to be 
 
 ## Usage
 
+The page has a side nav bar with links that scroll to desired sections. When collapsed or viewed on mobile, the nav bar sits at the top of the screen with a drop down navigation list. 
+
 [Click here for my deployed portfolio page](https://a-donati.github.io/a-donati-portfolio/)
+
+![Angela Donati portfolio website includes navigation sidebar and sections for About, Resume, SKills, and links for social media.](./assets/images/portfolio-screenshot.png)
 
 ## Questions
 
