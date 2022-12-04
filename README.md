@@ -12,7 +12,7 @@ Page contains sections for bio, skills, work history and projects
 
 [Click here for my deployed portfolio page](https://a-donati.github.io/a-donati-portfolio/)
 
-![Angela Donati portfolio website includes sections for About, Resume, Projects, Skills, and links for social media.](./assets/images/portfolio-screencap.png)
+![Angela Donati portfolio website includes sections for About, Resume, Projects, Skills, and links for social media.](./assets/images/portfolio-screencap-2.png)
 
 ## Questions
 
