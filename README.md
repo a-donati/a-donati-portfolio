@@ -14,7 +14,3 @@ Page contains sections for bio, skills, work history and projects
 
 ![Angela Donati portfolio website includes sections for About, Resume, Projects, Skills, and links for social media.](./assets/images/portfolio-screencap-2.png)
 
-## Questions
-
-- Contact me via [email](mailto:angeladonati93@gmail.com)
-- View my GitHub [profile](http://www.github.com/a-donati)
